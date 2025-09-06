@@ -1,4 +1,4 @@
-# DEEPAK KUMAR S (212223060039)
+# DEVARAJAN.N (212223060044)
 # EXP 1(A) FAN SPEED CONTROLLER SYSTEM USING TEMPERATURE SENSOR
 
 # Aim:
@@ -16,7 +16,7 @@ using Tinker CAD.
 <img width="964" height="732" alt="Screenshot 2025-09-02 134051" src="https://github.com/user-attachments/assets/518d8b87-d84e-4205-a074-97fffe28c8d5" />
 
 # Circuit Diagram:
-
+![WhatsApp Image 2025-09-06 at 09 33 11_4e078775](https://github.com/user-attachments/assets/65a58d33-5a56-41c5-b7cb-1f3183344f74)
 
 
 # Procedure
@@ -127,7 +127,9 @@ void loop() {
 ```
 # OUTPUT
 
-![WhatsApp Image 2025-09-06 at 09 23 47_5c0797d5](https://github.com/user-attachments/assets/b707afb2-8dbb-4496-b3d6-44b1da205092)
+
+![WhatsApp Image 2025-09-06 at 09 26 42_918e02c7](https://github.com/user-attachments/assets/1b97f8c2-c4e2-4d28-88b0-6538409d826b)
+
 
 
 
